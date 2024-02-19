@@ -1,0 +1,10 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+.banner {
+  background-image: url('../images/banner.png');
+  background-repeat: no-repeat;
+}
+li {
+  margin-right: 7px;
+}
